@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nooprompter"
+  site-url: "https://civvic.github.io/nooprompter"
+  description: "Mind prompts for model minds."
+  repo-branch: main
+  repo-url: "https://github.com/civvic/nooprompter"
